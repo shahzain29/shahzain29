@@ -2,7 +2,8 @@
 - 👀 I’m interested in Hybrid Mobile Application Development
 - 🌱 I’m currently learning React-Native
 - 💞️ I’m looking to collaborate on Various types of applications
-- 📫 How to reach me ==> shahzainsohail29@gmail.com
+- 📫 How to reach me 
+-                    ==> shahzainsohail29@gmail.com
 -                    ==> LinkedIn: https://www.linkedin.com/in/shahzain-sohail-7495a7198/
 -                     
 
