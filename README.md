@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shahzain29
-- 👀 I’m interested in Hybrid Mobile Application Development
-- 🌱 I’m currently working on React-Native
+- 👀 I’m interested in Hybrid Mobile Application Development, Front End Development and AI.
+- 🌱 I’m currently working on React-Native and NextJs.
 - 💞️ I’m looking to collaborate on Various types of applications
 - 📫 How to reach me 
 -                    ==> shahzainsohail29@gmail.com
